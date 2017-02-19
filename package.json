@@ -7,7 +7,7 @@
     },
     "gitbook": {
         "properties": {
-            "myConfigKey": {
+            "shortName": {
                 "type": "string",
                 "default": "it's the default value",
                 "description": "It defines my awesome config!"

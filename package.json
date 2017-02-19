@@ -1,0 +1,17 @@
+{
+    "name": "gitbook-plugin-summary-extend",
+    "version": "0.0.1",
+    "description": "Extends SUMMARY.md dynamically",
+    "engines": {
+        "gitbook": ">=3.x.x"
+    },
+    "gitbook": {
+        "properties": {
+            "myConfigKey": {
+                "type": "string",
+                "default": "it's the default value",
+                "description": "It defines my awesome config!"
+            }
+        }
+    }
+}
